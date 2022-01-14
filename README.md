@@ -46,3 +46,5 @@
 <a href="https://youtube.com/ItzDerock" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
 <a href="https://twitch.tv/DerockGamer" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /> </a>
 <br/><a href="https://derock.dev" target="_blank"> <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" /> </a>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/273629350476382218?bg=0d1117&idleMessage=Currently%20not%20doing%20anything!)](https://discord.com/users/273629350476382218)
