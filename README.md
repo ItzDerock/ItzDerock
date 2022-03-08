@@ -5,6 +5,10 @@
 - 🎥 I upload Youtube tutorial videos
 - ⚡ I code in Node.js
 
+### Projects
+- _(co-founder)_ MCStorage - Cloud storage hosting provider - [https://mcstorage.cloud](https://mcstorage.cloud/?ref=derock-github-readme)
+- _(founder)_ Poroscout - League of Legends Stat Bot - https://poroscout.derock.dev
+
 ### Languages:
 <a href="https://nodejs.org/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> </a>
