@@ -7,7 +7,7 @@
 - 🌐 https://derock.dev
 
 ### Projects
-- _(co-founder)_ MCStorage - Cloud storage hosting provider - [https://mcstorage.cloud](https://mcstorage.cloud/?ref=derock-github-readme)
+- ~~_(co-founder)_ MCStorage - Cloud storage hosting provider - [https://mcstorage.cloud](https://mcstorage.cloud/?ref=derock-github-readme)~~ discontinued 
 - _(founder)_ Poroscout - League of Legends Statistics Bot - https://poroscout.gg
 - _take a look at my github repos for open source projects_
 
