@@ -4,11 +4,11 @@
 - 📚 Currently learning more about Machine Learning and Deep Learning (GANs & YOLO)
 - ✍️ I love contributing to open source projects.
 - ⚡ I enjoy using TypeScript, React, Fastify & more.
-- 🎓 Currently a High School student.
+- 🌐 https://derock.dev
 
 ### Projects
 - _(co-founder)_ MCStorage - Cloud storage hosting provider - [https://mcstorage.cloud](https://mcstorage.cloud/?ref=derock-github-readme)
-- _(founder)_ Poroscout - League of Legends Statistics Bot - https://poroscout.derock.dev
+- _(founder)_ Poroscout - League of Legends Statistics Bot - https://poroscout.gg
 - _take a look at my github repos for open source projects_
 
 ### Languages:
