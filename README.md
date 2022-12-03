@@ -37,7 +37,7 @@
 <a href="https://linuxmint.com/" target="_blank"> <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> </a>
 <a href="https://www.alpinelinux.org/" target="_blank"> <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white" /> </a>
 
-*i use arch btw*
+[![System Stats](https://valid.x86.fr/cache/banner/umbq0v-6.png)](https://valid.x86.fr/umbq0v)
 
 ## Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzderock&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="itzderock" /></p
