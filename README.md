@@ -40,8 +40,8 @@
 [![System Stats](https://valid.x86.fr/cache/banner/umbq0v-6.png)](https://valid.x86.fr/umbq0v)
 
 ## Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzderock&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="itzderock" /></p
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzderock&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="itzderock" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itzderock&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="itzderock" /></p
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itzderock&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="itzderock" /></p>
 
 ### You can find me here:
 <a href="https://discord.gg/NqqtkS7ekj" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
