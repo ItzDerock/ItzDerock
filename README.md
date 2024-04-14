@@ -3,7 +3,8 @@
 ### I'm a fullstack developer, sysadmin, and a Discord bot developer!
 - 📚 Currently learning more about Machine Learning and Deep Learning (GANs & YOLO)
 - ✍️ I love contributing to open source projects.
-- ⚡ I enjoy using TypeScript, React, Fastify & more.
+- ⚡ I enjoy using TypeScript, NextJS, Tailwind, SolidJS, and more!
+- 🤖 I also love embedded programming and can program complex robots in C++. 
 - 🌐 https://derock.dev
 
 ### Projects
@@ -32,6 +33,8 @@
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> </a>
 
 ### Operating Systems:
+I use NixOS btw
+
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> </a>
 <a href="https://linuxmint.com/" target="_blank"> <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> </a>
