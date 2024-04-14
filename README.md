@@ -5,6 +5,7 @@
 - ✍️ I love contributing to open source projects.
 - ⚡ I enjoy using TypeScript, NextJS, Tailwind, SolidJS, and more!
 - 🤖 I also love embedded programming and can program complex robots in C++. 
+- 🎓 I am currently a Junior in Highschool.
 - 🌐 https://derock.dev
 
 ### Projects
