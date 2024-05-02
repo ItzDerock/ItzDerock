@@ -7,6 +7,7 @@
 - 🤖 I also love embedded programming and can program complex robots in C++. 
 - 🎓 I am currently a Junior in Highschool.
 - 🌐 https://derock.dev
+- 📚 [https://derock.blog](https://derock.blog/?ref=github)
 
 ### Projects
 - ~~_(co-founder)_ MCStorage - Cloud storage hosting provider - [https://mcstorage.cloud](https://mcstorage.cloud/?ref=derock-github-readme)~~ discontinued 
