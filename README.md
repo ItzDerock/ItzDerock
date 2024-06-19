@@ -12,6 +12,7 @@
 ### Projects
 - ~~_(co-founder)_ MCStorage - Cloud storage hosting provider - [https://mcstorage.cloud](https://mcstorage.cloud/?ref=derock-github-readme)~~ discontinued 
 - _(founder)_ Poroscout - League of Legends Statistics Bot - https://poroscout.gg
+- Simple Voice Chat Music - Music addon for Minecraft Simple Voice Chat mod - [repo](<https://github.com/ItzDerock/simplevoicechat-music>)
 - _take a look at my github repos for open source projects_
 
 ### Languages:
