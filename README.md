@@ -5,15 +5,15 @@
 - ✍️ I love contributing to open source projects.
 - ⚡ I enjoy using TypeScript, NextJS, Tailwind, SolidJS, and more!
 - 🤖 I also love embedded programming and can program complex robots in C++. 
-- 🎓 I am currently a Junior in Highschool.
-- 🌐 https://derock.dev
+- 🎓 I am currently a Senior in Highschool.
+- 🌐 [https://derock.dev](https://derock.dev/?ref=github)
 - 📚 [https://derock.blog](https://derock.blog/?ref=github)
 
 ### Projects
 - ~~_(co-founder)_ MCStorage - Cloud storage hosting provider - [https://mcstorage.cloud](https://mcstorage.cloud/?ref=derock-github-readme)~~ discontinued 
 - _(founder)_ Poroscout - League of Legends Statistics Bot - https://poroscout.gg
 - Simple Voice Chat Music - Music addon for Minecraft Simple Voice Chat mod - [repo](<https://github.com/ItzDerock/simplevoicechat-music>)
-- _take a look at my github repos for open source projects_
+- _take a look at my github repos for open source projects, or visit [derock.dev/projects](https://derock.dev/projects)_
 
 ### Languages:
 <a href="https://nodejs.org/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> </a>
