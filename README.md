@@ -1,11 +1,10 @@
-# Hello! I'm Derock - aka [ItzDerock](https://youtube.com/itzderock) 👋
+# Hello! I'm Derock 👋
 
-### I'm a fullstack developer, sysadmin, and a Discord bot developer!
+### I'm a fullstack developer, sysadmin, and embedded programmer.
 - 📚 Currently learning more about Machine Learning and Deep Learning (GANs & YOLO)
+- 🎓 I am studying Electrical Computer Engineering & Computer Science at Duke University.
 - ✍️ I love contributing to open source projects.
-- ⚡ I enjoy using TypeScript, NextJS, Tailwind, SolidJS, and more!
-- 🤖 I also love embedded programming and can program complex robots in C++. 
-- 🎓 I am currently a Senior in Highschool.
+- ⚡ I enjoy using TypeScript, C/C++, and Rust.
 - 🌐 [https://derock.dev](https://derock.dev/?ref=github)
 - 📚 [https://derock.blog](https://derock.blog/?ref=github)
 
