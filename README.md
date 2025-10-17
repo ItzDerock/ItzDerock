@@ -2,16 +2,17 @@
 
 ### I'm a fullstack developer, sysadmin, and embedded programmer.
 - 📚 Currently learning more about Machine Learning and Deep Learning (GANs & YOLO)
-- 🎓 I am studying Electrical Computer Engineering & Computer Science at Duke University.
+- 🎓 Studying Electrical Computer Engineering & Computer Science at Duke University.
 - ✍️ I love contributing to open source projects.
-- ⚡ I enjoy using TypeScript, C/C++, and Rust.
-- 🌐 [https://derock.dev](https://derock.dev/?ref=github)
-- 📚 [https://derock.blog](https://derock.blog/?ref=github)
+- ⚡ I enjoy using C/C++, Rust, and TypeScript.
+- 🌐 [Portfolio Site - derock.dev](https://derock.dev/?ref=github)
+- 📚 [Personal Blog - derock.blog](https://derock.blog/?ref=github)
 
 ### Projects
-- ~~_(co-founder)_ MCStorage - Cloud storage hosting provider - [https://mcstorage.cloud](https://mcstorage.cloud/?ref=derock-github-readme)~~ discontinued 
 - _(founder)_ Poroscout - League of Legends Statistics Bot - https://poroscout.gg
+- DIY Weather Station - Low-power and low-cost weather station - [repo](https://github.com/ItzDerock/weather-station)
 - Simple Voice Chat Music - Music addon for Minecraft Simple Voice Chat mod - [repo](<https://github.com/ItzDerock/simplevoicechat-music>)
+- ~~_(co-founder)_ MCStorage - Cloud storage hosting provider - [https://mcstorage.cloud](https://mcstorage.cloud/?ref=derock-github-readme)~~ discontinued 
 - _take a look at my github repos for open source projects, or visit [derock.dev/projects](https://derock.dev/projects)_
 
 ### Languages:
@@ -35,18 +36,16 @@
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> </a>
 
 ### Operating Systems:
-I use NixOS btw
+I use NixOS btw. Configuration: https://github.com/itzderock/dotfiles
 
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> </a>
 <a href="https://linuxmint.com/" target="_blank"> <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> </a>
 <a href="https://www.alpinelinux.org/" target="_blank"> <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white" /> </a>
 
-[![System Stats](https://valid.x86.fr/cache/banner/umbq0v-6.png)](https://valid.x86.fr/umbq0v)
-
 ## Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itzderock&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="itzderock" /></p
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itzderock&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="itzderock" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzderock&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="itzderock" /></p
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzderock&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="itzderock" /></p>
 
 ### You can find me here:
 <a href="https://discord.gg/NqqtkS7ekj" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
